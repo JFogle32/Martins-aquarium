@@ -1,0 +1,80 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    height: 80vh; 
+    justify-content: space-around;
+    height: .1vh; 
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+
+.list {
+    width: 60vw;
+h2 {
+    text-align: center;
+    font-weight: bold;
+
+}
+
+h3 {
+    font-weight: bolder;
+    font-size: x-large;
+}
+.tankProtocol {
+    width: 18vw;
+    width: 228px;
+    float: right;
+    background-color: darkblue;
+    font-style:normal;
+    font-weight: bolder;
+
+}
+
+.fish {
+    width: 80px;
+    height: auto;
+    border: 2px solid rgb(128, 0, 62);
+    background-color: rgb(236, 86, 108);
+.fishList {
+ width: 50%;
+   text-align: center;
+    background-color: rgb(93, 236, 86);
+    text-decoration-color: rgb(5, 77, 3);
+
+
+}
+
+.quotes {
+    background-color: rgb(212, 255, 127);
+    font-style: normal;
+    font-weight: bolder;
+}
+.harvestLoc {
+    justify-content: flex-end;
+    background-color: rgb(221, 255, 127);
+    font-style: normal;
+    font-weight: bolder;
+
+}
+body {
+background-color: rgb(47, 155, 191);
+}
+background-color: cyan;
+font-style: initial;
+
+}
+
+
+
+img {
+    width: 30%;
+    width: 75%;
+    height: auto;
+    justify-content: space-evenly;
+}
+
+
+
+
+      
